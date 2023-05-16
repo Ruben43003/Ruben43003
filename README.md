@@ -6,8 +6,10 @@
 
 - <b>Cloud-SOC</b>
   - <b>(https://github.com/Ruben43003/Cloud-SOC)</b>
--<b>LAN-Lab</b>
-  - <b>(https://github.com/Ruben43003/LAN-Lab/)</b>
+
+- <b>LAN-Lab</b>
+  - <b>(https://github.com/Ruben43003/LAN-Lab)</b>
+
 - <b>Starter-Pokemon-game</b>
   - <b>(https://github.com/Ruben43003/Starter-pokemon/blob/main/pokemon.py)</b>
   
